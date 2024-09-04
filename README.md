@@ -4,6 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TritiumXs)
 
+<!--
 ## Introduce
 ### Languages
 ![C](https://img.shields.io/badge/-C-192133?style=plastic&logo=c&logoColor=white&color=blue)
@@ -14,6 +15,7 @@
 ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-192133?style=plastic&logo=espressif&logoColor=snow&color=blue)
 ![OpenHarmony](https://img.shields.io/badge/-OpenHarmony-192133?style=plastic&logo=harmonyos&logoColor=snow&color=blue)
 ![Qt](https://img.shields.io/badge/-Qt-192133?style=plastic&logo=qt&logoColor=snow&color=blue)
+-->
 
 <!--
 **TritiumXs/TritiumXs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
